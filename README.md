@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi 👋, I'm Chaitanya Pingle
 
-<!--
-**chaitanya0313/chaitanya0313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science & Engineering Student at MIT ADT University
 
-Here are some ideas to get you started:
+📈 CGPA: 9.17 / 10
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Aspiring Software Engineer | Java Developer | Full-Stack Developer
+
+## Tech Stack
+
+* Java
+* Spring Boot
+* SQL & MySQL
+* React.js
+* JavaScript
+* HTML & CSS
+* Git & GitHub
+
+## Featured Projects
+
+### AgriBuddy – Farmer Finance & Data Management Platform
+
+* JWT Authentication
+* Role-Based Access Control
+* Spring Boot + React.js + MySQL
+* Real-Time Crop Price Integration
+
+### SmartFlow – Real-Time Vehicle Traffic Monitoring
+
+* Python
+* OpenCV
+* YOLOv4
+* 85% Vehicle Detection Accuracy
+
+## Currently Learning
+
+* Advanced DSA
+* Spring Boot
+* System Design Fundamentals
+
+## Connect With Me
+
+LinkedIn: linkedin.com/in/chaitanyapingle
+
+Email: [chaitanyapingle01@gmail.com](mailto:chaitanyapingle01@gmail.com)
